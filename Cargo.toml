@@ -4,7 +4,7 @@ description = "Logger and progress indicator"
 homepage = "https://github.com/rcook/joat-logger-rs/"
 license = "MIT"
 name = "joat-logger"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 
 [dependencies]

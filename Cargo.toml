@@ -12,7 +12,7 @@ repository = "https://github.com/rcook/joat-logger-rs.git"
 version = "0.0.4"
 
 [dependencies]
-indicatif = "0.17.6"
+indicatif = "0.17.8"
 lazy_static = "1.4.0"
-log = { version = "0.4.20", features = ["std"] }
-uuid = { version = "1.4.1", features = ["v4"] }
+log = { version = "0.4.21", features = ["std"] }
+uuid = { version = "1.8.0", features = ["v4"] }
